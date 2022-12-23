@@ -216,6 +216,9 @@ create init-script.sql file and within localstack_bootstrap create sqs_bootstrap
 
 I will like to especially appreciate Abby Dede and Swadhina Pradhan for their amazing support throughout the project. 
 
+# ETL Architecture
+![ETL ARCHITECTURE](https://github.com/NickFamoye/Nick_Data_Engineer/blob/master/ETL%20Architecture.png)
+
 ## Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicholas-famoye/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NickFamoye) 
