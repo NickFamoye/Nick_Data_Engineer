@@ -1,7 +1,7 @@
 # ETL application
 This is a Back-end ETL application with features that conglomerates, Postgres database, Localstack which is a cloud service emulator with provision to run AWS application entirely on your local machine without connecting to a remote cloud provider, Spark with features to read Json files, mask sensitive information’s and enables scalable analysis and ease use for Data analytics, Data scientist etc. and finally Vegas for data visualization.
 
-This application has the features and capacity to analyze and deduce empirical facts in deciding which retail store is cost-effective.
+This application has the features and capacity to analyze and deduce empirical facts for Real-Time Diagnostic and Descriptive Purposes and also Futuristic Prescriptive and Predictive Purposes.
 
 ## Programming Language and Technologies Used
 ⚛ Scala - version 2.11.12
